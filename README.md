@@ -1,6 +1,13 @@
-# Working on to build a simple React Calculator App for a workshop in college
+# Through this exercise, I could do the following 
 
-# Live Link: https://gsierra19-calculator-app.netlify.app/
+=> Create a fully working calculator.
+
+=> Create styling and define inline style properties
+
+=> Manage state of the equation to determine the output of the expression.
+
+=> Use CSS variables throughout your styling.
+
 
 # Getting Started with Create React App
 
